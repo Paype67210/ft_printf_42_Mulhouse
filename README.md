@@ -13,6 +13,10 @@
 
 La nouveaute principale de ce projet est la decouverte des `variables variatiques`.
 Ce type de variable permet a une fonction d'accepter un nombre de parametres variable
-<int	main(char *str, ...)>
+
+```
+int	main(char *str, ...)
+```
+
 Les `...` representent la variable variatique dont on recupere les arguments avec les macros `va_start`, `va_arg` et `va_end`.
 

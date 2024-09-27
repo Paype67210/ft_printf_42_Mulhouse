@@ -2,8 +2,6 @@
 <img alt="Entête du dépôt ft_printf." src="https://github.com/Paype67210/ft_printf_42_Mulhouse/blob/main/Tools/cover-ft_printf.png">
 </picture>
 
-Le projet **ft_printf** a pour objectif de recréer la fonction standard `printf` en langage C, une fonction clé dans de nombreux programmes pour afficher des informations formatées. Ce projet permet de se familiariser avec les notions de manipulation de chaînes, de gestion des arguments variadiques, et d'affichage formaté.
-
 ### Objectifs du projet
 
 - **Recréation de la fonction printf** : L'objectif est d'implémenter une version simplifiée de `printf` qui supporte plusieurs conversions spécifiques.
